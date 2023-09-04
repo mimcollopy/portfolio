@@ -6,7 +6,7 @@ import './Socials.css'
 export default function Socials() {
 return (
     <div className="social-links">
-        <a className="Link" href="http://">
+        <a className="Link" href="https://drive.google.com/file/d/1TBD-60h5khNMxvxgquKa2xgBjEYShtlq/view?usp=sharing">
           <img className="social-icon" src={cv} alt="CV" />
         </a>
         <a className="Link" href="mailto:mim.collopy@gmail.com">
