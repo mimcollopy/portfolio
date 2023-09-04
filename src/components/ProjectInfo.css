@@ -1,0 +1,42 @@
+.project-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    letter-spacing: 0.05em;
+    margin-left: 5%;
+  margin-right: 5%;
+    
+}
+.project-list a:link {
+    text-decoration: none;
+    font-size: larger;
+    
+
+}
+.project-list a:visited{
+    
+    color: black;
+}
+
+.social-icon {
+    
+    height: 20px;
+    margin-left: 10px;
+  }
+
+#app-img {
+  
+max-height: 100px;
+  
+}
+
+#project-description {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+/* #app-img style {
+  height: 64px;
+  width: 64px;
+  object-fit: cover;
+} */
