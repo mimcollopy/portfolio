@@ -14,7 +14,7 @@ export default function About() {
         I aim to develop user-centred solutions that integrate functionality,
         aesthetics, and great user experiences, and leave a positive impact.
         <br />
-        I'm excited to continue to build projects - both solo and with others.
+        I'm excited to continue to build projects, both solo and with others.
       </article>
     </div>
   );
