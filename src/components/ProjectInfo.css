@@ -40,3 +40,10 @@ max-height: 100px;
   width: 64px;
   object-fit: cover;
 } */
+
+@media (max-width: 768px) {
+  .project-list {
+    flex-direction: column;
+    align-items: center;
+  }
+}
