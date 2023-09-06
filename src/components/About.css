@@ -2,7 +2,7 @@
     
     text-align: left;
     margin-left: 3em;
-    margin-right: 20em;
+    margin-right: 50%;
     letter-spacing: 0.05em;
     margin-bottom: 50px;
  
@@ -10,4 +10,9 @@
 .hi {
     font-size: 200%;
    
+}
+@media (max-width: 768px) {
+    .about-me {
+        margin-right: 3em; /* Adjust the margin for narrower screens */
+    }
 }

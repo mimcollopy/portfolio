@@ -9,9 +9,11 @@ export default function ProjectInfo() {
   return (
     <div className="project-list">
       <div>
-        <a href="https://github.com/mimcollopy/thru_supply">
+        <a href="https://github.com/mimcollopy/thru_supply" target="_blank" rel="noopener noreferrer">
           <img id="app-img" src={thru_supply} alt="thru supply" />
           <br /> Thru Supply
+        </a>
+        <a href="https://github.com/mimcollopy/thru_supply" target="_blank" rel="noopener noreferrer">
           <img className="social-icon" src={github} alt="GitHub" />
         </a>
         <p id="project-description">
@@ -22,9 +24,11 @@ export default function ProjectInfo() {
       </div>
 
       <div>
-        <a href="https://github.com/papa-fish/servo_app">
+        <a href="https://github.com/papa-fish/servo_app" target="_blank" rel="noopener noreferrer">
           <img id="app-img" src={servo_app} alt="servo app" />
           <br /> Servo Finder
+        </a>
+        <a href="https://github.com/papa-fish/servo_app" target="_blank" rel="noopener noreferrer">
           <img className="social-icon" src={github} alt="GitHub" />
         </a>
 
@@ -35,12 +39,15 @@ export default function ProjectInfo() {
         </p>
       </div>
       <div>
-        <a href="https://github.com/mimcollopy/take-a-hike">
+        <a href="https://take-a-hike.onrender.com/" target="_blank" rel="noopener noreferrer">
+        
           <img id="app-img" src={take_a_hike} alt="take a hike" />
           <br />
           Take A Hike
-          <img className="social-icon" src={github} alt="GitHub" />
         </a>
+        <a href="https://github.com/mimcollopy/take-a-hike" target="_blank" rel="noopener noreferrer">
+          <img className="social-icon" src={github} alt="GitHub" />
+          </a>
         <p id="project-description">
           A full-stack CRUD app that allows users to share and save various
           trails. Built using JavaScript, node.js, Express.js, HTML, CSS, and
@@ -48,9 +55,12 @@ export default function ProjectInfo() {
         </p>
       </div>
       <div>
-        <a href="https://github.com/mimcollopy/tac-tac-toe">
+        <a href="https://mimcollopy.github.io/tac-tac-toe/" target="_blank" rel="noopener noreferrer">
           <img id="app-img" src={tic_tac_toe} alt="tic-tac-toe" />
           <br /> Tic-Tac-Toe
+        </a>
+        <a href="https://github.com/mimcollopy/tac-tac-toe" target="_blank" rel="noopener noreferrer">
+
           <img className="social-icon" src={github} alt="GitHub" />
         </a>
         <p id="project-description">

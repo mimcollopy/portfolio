@@ -4,17 +4,11 @@ export default function About() {
     <div>
       <article className="about-me">
         <p className="hi">Hi!</p>
-        I'm Mim. I'm a naturally curious person with a knack for problem solving, and have recently completed General Assembly's software engineering bootcamp. <br />
-        My background encompasses a unique blend of managing hospitality venues,
-        organizing large events, and running my own e-commerce business.
-        <br />
-        These ventures have equipped me with a broad range of skills and a
-        lateral thinking approach that allows me to excel in any environment.
-        <br />
-        I aim to develop user-centred solutions that integrate functionality,
-        aesthetics, and great user experiences, and leave a positive impact.
-        <br />
-        I'm excited to continue to build projects, both solo and with others.
+        I'm Mim. I'm a full-stack engineer, and I love solving interesting problems. I'm a graduate of General Assembly's Full Stack Software Engineering Bootcamp.
+        <br/>
+        With a background ranging from venue management and event organisation to running my own successful e-commerce business, I have a broad range of skills that allow me to excel in any environment.
+        <br/>
+        I enjoy developing user-centric solutions that integrate functionality, aesthetics, and great user experiences, while always aiming to leave a positive impact on the people around me. 
       </article>
     </div>
   );

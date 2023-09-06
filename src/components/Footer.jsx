@@ -6,7 +6,9 @@ export default function Footer() {
     <div>
       <Socials />
       <div className="copyright">
-        © Mim Collopy 2023
+        © mim collopy 2023
+        <br/>
+        built with react
         </div>
     </div>
   );
