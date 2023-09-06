@@ -51,7 +51,7 @@ export default function ProjectInfo() {
         <p id="project-description">
           A full-stack CRUD app that allows users to share and save various
           trails. Built using JavaScript, node.js, Express.js, HTML, CSS, and
-          PostrgreSQL
+          PostrgreSQL. This page is deployed on render, and does take a little while to load.
         </p>
       </div>
       <div>
