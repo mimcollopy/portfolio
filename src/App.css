@@ -3,6 +3,10 @@
 }
 @import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Gruppo&family=Montserrat:wght@300&family=Poiret+One&family=Raleway:wght@100&display=swap");
 
+.a:hover {
+  font-weight: bold; 
+  cursor: pointer;
+}
 .grid-wrapper {
   display: flex;
   flex-wrap: wrap;
